@@ -17,8 +17,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- 1 Create an Azure Virtual Machine Windows 10, 4 vCPUs
-- 2
+- Create an Azure Virtual Machine Windows 10, 4 vCPUs
+- 
 - Item 3
 - Item 4
 - Item 5
@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![image](https://github.com/user-attachments/assets/12140a94-81b0-489c-acd5-b454c865dbe4)
+1 ![image](https://github.com/user-attachments/assets/12140a94-81b0-489c-acd5-b454c865dbe4)
 
 </p>
 <p>

@@ -25,15 +25,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
  1. [image] (https://github.com/user-attachments/assets/8e9b2d8e-d27b-4024-a636-11d38e5999fa)
+ , [image](https://github.com/user-attachments/assets/00ed4d72-7bec-4780-b9f3-155a50657708), 
 
 
 </p>
 <p>
-Name: osticket-vm
-Username: labuser
-Password: osTicketPassword1 
-Then create VM (virtual Machine)
+- Name: osticket-vm
+, Username: labuser
+, Password: osTicketPassword1 
+, Then create VM (virtual Machine).
 
+ - Log into the VM with Remote Desktop
 </p>
 <br />
 
@@ -41,7 +43,6 @@ Then create VM (virtual Machine)
 2. <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Log into the VM with Remote Desktop
 
  - Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto the desktop.
 

@@ -17,15 +17,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create an Azure Virtual Machine Windows 10, 4 vCPUs
+- Create an Azure Virtual Machine Windows 10, 4 vCPUs / osTicket installation
 - osTicket: Post-Installation Configuration
-- osTicket: Ticket Lifecycle Examples
+- osTicket: Tickets and Ticket Lifecycle 
 
 <h2>Installation Steps</h2>
 
 <p>
  1. [image] (https://github.com/user-attachments/assets/8e9b2d8e-d27b-4024-a636-11d38e5999fa)
- , [image](https://github.com/user-attachments/assets/00ed4d72-7bec-4780-b9f3-155a50657708), 
+ , [image](https://github.com/user-attachments/assets/00ed4d72-7bec-4780-b9f3-155a50657708), [image](https://github.com/user-attachments/assets/d44e8570-cb50-481e-b9c0-c3a90f440bc4)
+ 
 
 
 </p>

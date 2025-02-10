@@ -24,8 +24,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
- 1. [image] (https://github.com/user-attachments/assets/8e9b2d8e-d27b-4024-a636-11d38e5999fa)
- , [image](https://github.com/user-attachments/assets/00ed4d72-7bec-4780-b9f3-155a50657708), [image](https://github.com/user-attachments/assets/d44e8570-cb50-481e-b9c0-c3a90f440bc4)
+ <img src= "https://github.com/user-attachments/assets/8e9b2d8e-d27b-4024-a636-11d38e5999fa" height=80% width=80% alt="Disk Santization steps"/>
+ <img src= "https://github.com/user-attachments/assets/00ed4d72-7bec-4780-b9f3-155a50657708" height=80% width=80% alt="Disk Santization steps"/> 
+   <img src= "https://github.com/user-attachments/assets/d44e8570-cb50-481e-b9c0-c3a90f440bc4" height=80% width=80% alt="Disk Santization"/> 
+   <img src= "https://github.com/user-attachments/assets/c886a675-b5d9-4ea7-912a-8b1291d72845" height=80% width=80% alt="Disk Santization"/>
+
  
 
 
@@ -37,7 +40,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 , Then create VM (virtual Machine).
 
  - Log into the VM with Remote Desktop
- - 
+ - VM (osticket-vm) downloaded the "osTicket-Installation-Files.zip" and unzipped it onto desktop (using files in this folder to install osTicket and some of the dependencies)
+ -   
 </p>
 <br />
 
@@ -45,8 +49,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 2. <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
- - Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto the desktop.
 
 - Install / Enable IIS in Windows WITH CGI
 

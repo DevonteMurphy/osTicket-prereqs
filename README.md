@@ -37,6 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 , Then create VM (virtual Machine).
 
  - Log into the VM with Remote Desktop
+ - 
 </p>
 <br />
 

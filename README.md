@@ -18,10 +18,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create an Azure Virtual Machine Windows 10, 4 vCPUs
-- 
-- Item 3
-- Item 4
-- Item 5
+- osTicket: Post-Installation Configuration
+- osTicket: Ticket Lifecycle Examples
 
 <h2>Installation Steps</h2>
 
@@ -31,15 +29,30 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Name: osticket-vm
+Username: labuser
+Password: osTicketPassword1 
+Then create VM (virtual Machine)
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2. <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Log into the VM with Remote Desktop
+
+ - Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto the desktop.
+
+- Install / Enable IIS in Windows WITH CGI
+
+- World Wide Web Services -> Application Development Features -> [X] CGI
+
+- From the “osTicket-Installation-Files” folder, install PHP Manager for IIS 
+
+
+ 
 </p>
 <br />
 

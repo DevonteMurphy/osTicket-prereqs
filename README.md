@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
- <img src= "https://github.com/user-attachments/assets/8e9b2d8e-d27b-4024-a636-11d38e5999fa" height=80% width=80% alt="Disk Santization steps"/>
+ 1. <img src= "https://github.com/user-attachments/assets/8e9b2d8e-d27b-4024-a636-11d38e5999fa" height=80% width=80% alt="Disk Santization steps"/>
  <img src= "https://github.com/user-attachments/assets/00ed4d72-7bec-4780-b9f3-155a50657708" height=80% width=80% alt="Disk Santization steps"/> 
    <img src= "https://github.com/user-attachments/assets/d44e8570-cb50-481e-b9c0-c3a90f440bc4" height=80% width=80% alt="Disk Santization"/> 
    <img src= "https://github.com/user-attachments/assets/c886a675-b5d9-4ea7-912a-8b1291d72845" height=80% width=80% alt="Disk Santization"/>
@@ -34,14 +34,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
+ 
 - Name: osticket-vm
 , Username: labuser
 , Password: osTicketPassword1 
-, Then create VM (virtual Machine).
+, Then created VM (virtual Machine).
 
- - Log into the VM with Remote Desktop
- - VM (osticket-vm) downloaded the "osTicket-Installation-Files.zip" and unzipped it onto desktop (using files in this folder to install osTicket and some of the dependencies)
- -   
+ - Logged into the VM with Remote Desktop
+ - VM (osticket-vm) downloaded the "osTicket-Installation-Files.zip" and unzipped it onto Remote Desktop (wil be using files in this folder to install some of the dependencies)   
+
 </p>
 <br />
 
@@ -50,11 +51,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 
-- Install / Enable IIS in Windows WITH CGI
+- Installed / Enabled IIS in Windows WITH CGI
 
 - World Wide Web Services -> Application Development Features -> [X] CGI
 
-- From the “osTicket-Installation-Files” folder, install PHP Manager for IIS 
+- From the “osTicket-Installation-Files” folder, installed PHP Manager for IIS 
 
 
  

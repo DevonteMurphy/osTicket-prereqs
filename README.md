@@ -55,8 +55,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 height=50% width=50% alt="Disk santization"/>
   <img src="https://github.com/user-attachments/assets/080e403a-18d8-448a-8911-2496ba8c16e9" height=20% width=55% alt="Disk Santization"/> 
 
-- From the “osTicket-Installation-Files” folder installed Rewrite Module (rewrite_amd64_en-US.msi)
- <img src="https://github.com/user-attachments/assets/4822fbe2-a0fe-43b1-bd75-6b3f7b141fff"  height=45% width=30% alt="Disk santization"/>
+- From the “osTicket-Installation-Files” folder installed Rewrite Module (rewrite_amd64_en-US.msi) 
+<img src="https://github.com/user-attachments/assets/4822fbe2-a0fe-43b1-bd75-6b3f7b141fff"  height=45% width=30% alt="Disk santization"/>
 <img src="https://github.com/user-attachments/assets/3ac1446f-963c-42ae-88e1-d744760b74aa" height=65% width=30% alt="Disk santization"/>
 
 

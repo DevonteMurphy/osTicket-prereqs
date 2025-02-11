@@ -163,13 +163,6 @@ MySQL Password: root
 <img src="https://github.com/user-attachments/assets/afb47af4-f7c1-4a0f-94e3-d5bd80f9e8a0" height=45% width=45% alt="Disk Santization"/>
 <img src="https://github.com/user-attachments/assets/df23046d-fff6-424f-8329-59a25c3088c1" height=45% width=45% alt="Disk Santization"/>
 
-
-
-</p>
-<br />
-(3. osTicket: Tickets and Ticket Lifecycle 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
